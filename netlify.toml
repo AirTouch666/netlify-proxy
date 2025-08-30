@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "{url}/:splat"
+  to = "https://fastly.jsdelivr.net/:splat"
   status = 200
   force = true
